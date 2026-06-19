@@ -10,6 +10,7 @@ https://talkvid.onrender.com
 
 > ⚠️ The application is hosted on Render's free tier. The backend may take a few moments to wake up on the first request.
 
+![TalkVid Preview](./frontend/public/Screenshot%202026-06-20%20004126.png)
 
 ---
 
@@ -131,7 +132,3 @@ https://talkvid.onrender.com
 If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
